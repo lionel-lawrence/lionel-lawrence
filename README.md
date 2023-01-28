@@ -10,7 +10,7 @@
   <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br /><br /><br />
+<br /><br />
 
 <!--
 **lionel-lawrence/lionel-lawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Use-cases involving Analytics, Machine Learning & Banking
 - 📫 How to reach me: lionel2997@gmail.com
 
-
+<br />
 **languages and tools:**  
 
 
