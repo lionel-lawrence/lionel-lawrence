@@ -10,7 +10,7 @@
   <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br /><br /><br />
 
 <!--
 **lionel-lawrence/lionel-lawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
