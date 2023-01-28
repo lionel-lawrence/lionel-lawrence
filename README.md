@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="[https://icons8.com/icon/qYfwpsRXEcpc/power-bi](https://camo.githubusercontent.com/5172fc49207876519dd04a3d195d32578f598738959a9185e02a82b2c062a9b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d626c61636b)"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/5172fc49207876519dd04a3d195d32578f598738959a9185e02a82b2c062a9b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d626c61636b"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
