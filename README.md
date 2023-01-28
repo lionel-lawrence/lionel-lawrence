@@ -18,12 +18,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on applications in Consumer Spending & Payment systems
 - 👯 I’m looking to collaborate on building applications for FinTech
-- 💬 Ask me about: Brainstorming use-cases involving Analytics, Machine Learning & Banking
+- 💬 Ask me about: Use-cases involving Analytics, Machine Learning & Banking
 - 📫 How to reach me: lionel2997@gmail.com
-- ⚡ Fun fact: 
 
 
 **languages and tools:**  
