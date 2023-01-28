@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lionel2997@gmail.com
 
 <br />
+
 **languages and tools:**  
 
 
