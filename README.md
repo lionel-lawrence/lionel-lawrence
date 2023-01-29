@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://static.wixstatic.com/media/5f69be_b5ddffb6d2914d9ca7b689da6007226c~mv2.png/v1/fill/w_326,h_324,al_c,lg_1,q_85,enc_auto/FRM.png"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/153-1531504_bank-png-image-download-career-opportunities-in-banking.png"></code>
-
+<code><img height="20" src="https://www.dinkytown.net/images/loans.png"></code>
