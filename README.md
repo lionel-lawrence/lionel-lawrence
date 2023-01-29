@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img alt="Night Coding" src="[https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html](https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html?embed=true)" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right"/>
 
 **languages and tools:**  
 
