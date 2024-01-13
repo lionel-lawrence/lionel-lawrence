@@ -4,7 +4,7 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-lawrence/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lionellolly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lionel.29/)
 
-
+<!--
 <a href="discordapp.com/users/617338262670802954">
   <img align="left" alt="Lionel's Discord" width="22px" src="https://img.shields.io/discord/617338262670802954" />
 </a>
@@ -14,7 +14,7 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
 <a href="https://www.linkedin.com/in/lionel-lawrence/">
   <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+-->
 <br /><br />
 
 <!--
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+
+<!--
 **languages and tools:**  
 
 
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://camo.githubusercontent.com/c2800672ad04fe21e9c464eadf19e4528d580d9165b2c685fa3eb8f547620c40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e64612d333432423032392e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></code>
-
+-->
 
 <br />
 
