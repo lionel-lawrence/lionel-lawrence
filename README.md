@@ -6,7 +6,7 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
 
 
 <a href="discordapp.com/users/617338262670802954">
-  <img align="left" alt="Lionel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Lionel's Discord" width="22px" src="https://img.shields.io/discord/617338262670802954" />
 </a>
 <a href="https://twitter.com/lionellolly">
   <img align="left" alt="Lionel's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
