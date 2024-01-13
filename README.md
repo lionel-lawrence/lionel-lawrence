@@ -1,4 +1,9 @@
-### Hi there 👋
+# 💫 About Me:
+Hi there, I am an experienced Data Scientist with a demonstrated history of working in the analytical consulting industry. Skilled in Python, SQL, Machine Learning, Computer Vision, NLP, Statistics, and frameworks like Tensorflow, Langchain, Flask, and adequate knowledge of applied AI frameworks for real-world productionization and deployment of AI solutions. Extensive experience in client interaction and working experience with Fortune 500 companies.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-lawrence/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lionellolly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lionel.29/)
+
 
 <a href="discordapp.com/users/617338262670802954">
   <img align="left" alt="Lionel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
