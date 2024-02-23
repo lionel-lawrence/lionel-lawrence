@@ -15,7 +15,6 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
   <img align="left" alt="Lionel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
-<br /><br />
 
 <!--
 **lionel-lawrence/lionel-lawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,6 +57,7 @@ Here are some ideas to get you started:
 **specializations & domain expertise:**  
 
 <code><img height="20" src="https://static.wixstatic.com/media/5f69be_b5ddffb6d2914d9ca7b689da6007226c~mv2.png/v1/fill/w_326,h_324,al_c,lg_1,q_85,enc_auto/FRM.png"></code>
+<code><img height="20" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/153-1531504_bank-png-image-download-career-opportunities-in-banking.png"></code>
 <code><img height="20" src="https://www.dinkytown.net/images/loans.png"></code>
 <code><img height="20" src="https://w1.pngwing.com/pngs/698/248/png-transparent-project-management-professional-text-grafana-marketing-influxdb-performance-metric-project-management-body-of-knowledge-organization-elasticsearch.png"></code>
