@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am an experienced Data Scientist with a demonstrated history of working in the analytical consulting industry. Skilled in Python, SQL, Machine Learning, Computer Vision, NLP, Statistics, and frameworks like Tensorflow, Langchain, Flask, and adequate knowledge of applied AI frameworks for real-world productionization and deployment of AI solutions. Extensive experience in client interaction and working experience with Fortune 500 companies.
+Hi there, I am an experienced Data Scientist with a demonstrated history of working in the analytical consulting industry. Skilled in Python, SQL, Machine Learning, Computer Vision, NLP, Statistics, and frameworks like Torch, LlamaIndex, Langchain, Flask, and adequate knowledge of applied AI frameworks for real-world productionization and deployment of AI solutions. My expertise in finance and AI stems from extensive experience gained at leading global banking institutions, complemented by successful completion of the Financial Risk Manager (FRM) exam.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-lawrence/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lionellolly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lionel.29/)
@@ -12,7 +12,7 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
   <img align="left" alt="Lionel's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lionel-lawrence/">
-  <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Lionel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
 <br /><br />
@@ -22,12 +22,9 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
 
 Here are some ideas to get you started:
 -->
-
-
-
-- 🔭 I’m currently working on applications in Consumer Spending & Payment systems
-- 👯 I’m looking to collaborate on building applications for FinTech
-- 💬 Ask me about: Use-cases involving Analytics, Machine Learning & Banking
+- 🔭 I’m currently working on LLM applications in AI Agent for Risk Managers, and other applications in Consumer Spending & Payment systems
+- 👯 I’m looking to collaborate on building LLM and AI applications for FinTech
+- 💬 Ask me about: Use-cases involving LLM, Analytics, Machine Learning & Banking
 - 📫 How to reach me: lionel2997@gmail.com
 
 <br />
@@ -65,8 +62,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://www.dinkytown.net/images/loans.png"></code>
 <code><img height="20" src="https://w1.pngwing.com/pngs/698/248/png-transparent-project-management-professional-text-grafana-marketing-influxdb-performance-metric-project-management-body-of-knowledge-organization-elasticsearch.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/507/48/png-transparent-regulatory-compliance-regulation-business-organization-american-bankers-association-business-text-people-logo.png"></code>
+<code><img height="20" src="https://www.workfusion.com/wp-content/uploads/2023/12/Forrester-operational-processes-will-be-the-near-term-llm-sweet-spot-1.png.webp"></code>
 
 
 ----
 
-Last Edited on: 28/01/2023
+Last Edited on: 24/02/2024
