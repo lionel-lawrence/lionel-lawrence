@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there, I am an experienced Data Scientist with a demonstrated history of working in the analytical consulting industry. Skilled in Python, SQL, Machine Learning, Computer Vision, NLP, Statistics, and frameworks like Torch, LlamaIndex, Langchain, Flask, and adequate knowledge of applied AI frameworks for real-world productionization and deployment of AI solutions. My expertise in finance and AI stems from extensive experience gained at leading global banking institutions, complemented by successful completion of the Financial Risk Manager (FRM) exam.
+I’m a Data Scientist with 7+ years of experience designing and deploying scalable AI solutions across financial services and consulting. My expertise spans Generative AI, agentic workflows, LLM fine-tuning, and RAG systems, alongside core ML techniques in NLP, CV, and classical modeling.
+
+I specialize in building production-grade, low-latency AI systems using Python, SQL, PyTorch, LangChain/LangGraph, and cloud-native frameworks (Azure, FastAPI, Docker). With a strong foundation in finance and risk management (FRM certified), I bridge domain knowledge with cutting-edge AI to deliver measurable business impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-lawrence/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lionellolly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lionel.29/)
@@ -21,10 +23,10 @@ Hi there, I am an experienced Data Scientist with a demonstrated history of work
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on LLM applications in AI Agent for Risk Managers, and other applications in Consumer Spending & Payment systems
-- 👯 I’m looking to collaborate on building LLM and AI applications for FinTech
-- 💬 Ask me about: Use-cases involving LLM, Analytics, Machine Learning & Banking
-- 📫 How to reach me: lionel2997@gmail.com
+- 🔭 Currently building LLM-powered fee proposal engines, legal QA systems, and consumer payments intelligence for enterprise adoption.
+- 👯 Open to collaborating on FinTech and enterprise-scale LLM products.
+- 💬 Ask me about: GenAI, ML/Analytics, NLP/RAG, and AI in Banking & Risk.
+- 📫 Reach me at: lionel2997@gmail.com
 
 <br />
 
@@ -58,6 +60,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://static.wixstatic.com/media/5f69be_b5ddffb6d2914d9ca7b689da6007226c~mv2.png/v1/fill/w_326,h_324,al_c,lg_1,q_85,enc_auto/FRM.png"></code>
 <code><img height="20" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/153-1531504_bank-png-image-download-career-opportunities-in-banking.png"></code>
 <code><img height="20" src="https://www.dinkytown.net/images/loans.png"></code>
 <code><img height="20" src="https://w1.pngwing.com/pngs/698/248/png-transparent-project-management-professional-text-grafana-marketing-influxdb-performance-metric-project-management-body-of-knowledge-organization-elasticsearch.png"></code>
